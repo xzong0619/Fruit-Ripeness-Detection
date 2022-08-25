@@ -4,7 +4,7 @@
 This app can be used for real time object detection be leveraging [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection), [React](https://reactjs.org/) and [Tensorflow JS](https://www.tensorflow.org/js). This repository contains the code and Google Colab notebook (add link) for training a detector of banana ripeness.
 
 ### Problem Statement
-The model is used to detect the ripeness stages of bananas. 
+The model is used to detect the ripeness process of bananas. 
 
 The corresponding labels are:
 
