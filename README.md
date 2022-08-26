@@ -19,6 +19,7 @@ The corresponding labels are:
 The images used for training are taken from [Roboflow](https://universe.roboflow.com/fruit-ripening/fruit-ripening-process/dataset/2). There are 5.3K images for training and 757 images for test.
 
 - Freshripe
+![test](https://lcv2ssz4h67-496ff2e9c6d22116-6009-colab.googleusercontent.com/data/plugin/images/individualImage?ts=1661460726.495026&blob_key=WyIiLCIuIiwiZXZhbF9zaWRlX2J5X3NpZGVfNV8wIiwyMDAwMCwyXQ)
 
 - Freshunripe
 
